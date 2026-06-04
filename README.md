@@ -10,4 +10,5 @@ A lightweight, interactive command-line calculator written in Python that perfor
 ## 🛠️ How to Run
 1. Make sure you have Python installed.
 2. Run the file in your terminal:
-   python calculate.py
+
+   '''python calculate.py'''
